@@ -1,0 +1,61 @@
+.custom_container{
+    /* border: 1px solid #000; */
+    background-color: rgb(246, 247, 248);
+    width: 815px !important;
+}
+
+.sTitle{
+    display: flex;
+    justify-content: space-between !important;
+}
+
+.DateS{
+    border: none;
+    border-top: 1px solid #000;
+}
+
+.tdWidth{
+    width: 250px !important;
+    display: inline !important;
+}
+.Tablex{
+    margin-top: -110px !important;
+}
+
+.Tabord{
+    
+    margin-left:100px;
+    margin-top: 10px;
+    
+    margin-bottom: 10px;
+}
+
+.tabrow{
+    width: 350px;
+    border: 1px solid #000 !important;
+    padding-left: 10px;
+}
+
+.TabColor{
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid #000 !important;
+}
+.foter{
+    border-top: 1px solid #000;
+    margin-top: 80px !important;
+}
+
+.foterb{
+    border: none;
+    font-size: 14px;
+    text-align: justify;
+}
+
+.btextO{
+    font-size: 12px !important;
+}
+
+.Tot{
+    color: rgb(7, 78, 119);
+}
